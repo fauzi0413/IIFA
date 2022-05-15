@@ -1,0 +1,13 @@
+tema event : sport (olahraga), charity (donasi), health(kesehatan), book(buku), libraries(perpustakaan)
+
+IIFA : Indonesian IATSS Forum Alumni Association
+
+judul event : Burn Calories, Build Libraries (BCBL)
+sosial media : instagram (alumniiifa)
+
+konsep website : 
+- laporan track record untuk jarak tempuh atau berapa kalori yang sudah di laksanakan (individu & semuanya)
+- total jumlah jarak atau kalori yang sudah terkumpul (semuanya)
+- website ada 2 hak akses (admin & user)
+- user bisa mengupload hasil jarak/kalori dalam bentuk teks dan upload foto berupa screen shoot, bisa melihat track record nya juga secara individu ataupun semuanya
+- admin bisa crud akun user, membuat laporan, melihat data laporan user

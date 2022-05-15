@@ -1,0 +1,77 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+.border-info{
+    border-radius: 12px !important;
+}
+
+.bg-limes{
+    background-color: rgb(51, 255, 0);
+}
+
+.bg-footer{
+    background-color: cadetblue;
+}
+
+.logo{
+    width: 40px;
+    margin-right: 10px;
+}
+
+.intro{
+    height: 100%;
+    min-height: 80vh;
+}
+
+.scroll-auto{
+    display: block;
+    overflow: scroll;
+    height: 150px;
+}
+
+.scroll{
+    border-bottom: 1px solid rgba(0,0,0,0.5);
+}
+
+.scroll:hover{
+    background-color: aquamarine !important;
+    transition: ease-in-out 0.3s;
+}
+
+.search-bar{
+    border-radius: 0 10px 10px 0;
+}
+
+.btn-login{
+    border: none;
+    color: #fff;
+    letter-spacing: 1px;
+    background-color: rgb(29, 185, 29);
+}
+
+.form-control:focus,
+.form-control:active, 
+.form-control:active:focus:not(:disabled):not(.disabled),
+.form-control:focus, .form-control:active,.form-select:focus,.form-select:active {
+    box-shadow: none !important;
+    outline: 0;
+    /* fill: #6A54F7; */
+}
+
+.info-text{
+    color: rgb(33, 215, 52);
+}
+
+.list-footer li{
+    list-style: none;
+    line-height: 40px;
+}
+
+.list-footer li a{
+    color: #000;
+    font-weight: 300;
+    text-decoration: none;
+}
